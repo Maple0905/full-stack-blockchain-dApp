@@ -5,7 +5,7 @@ Here's how to deploy this project
 1. Clone the repo
 
 ```sh
-git clone https://github.com/LuisIzarra/full-stack-ethereum-develoment.git
+git clone https://github.com/wonderTechi/full-stack-blockchain-dApp.git
 ```
 
 2. Install the dependencies
